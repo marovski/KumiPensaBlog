@@ -28,6 +28,7 @@ no teu regaço a minha alma cura,
 e no teu abraço, o meu corpo encontra ternura. 
 
 Ai Criolinha! Que meus olhos não se cansam, de apreciar e de amar… 
-Ai Criolinha! Que o meu paladar tanto demanda, esse sabor a caldeirada de garoupa, com uma pitada de Mbongo
+Ai Criolinha! Que o meu paladar tanto demanda, esse sabor a caldeirada de garoupa, com uma pitada de Mbongo!
+
 Dança minha Criola, que a lua é tua.. 
 Dança com essa beleza, que o sol te quer nua!
