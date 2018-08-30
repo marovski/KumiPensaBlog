@@ -3,7 +3,7 @@ layout: post
 title:  "Criola Rainha"
 author: "Marovski"
 ---
-[Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
+![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
 _Cantora Caboverdiana, Kady_
 {% endhighlight %}
 
