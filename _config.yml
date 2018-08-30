@@ -13,15 +13,18 @@ author:
 # Build settings
 markdown:       kramdown
 
+
 # Assets
 sass:
   sass_dir:     _sass
   style:        compressed
 
 # Gems
-plugins_dir:
+remote_theme: chesterhow/tale
+plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   - jemoji 
 # Permalinks
 permalink:      /:year-:month-:day/:title
