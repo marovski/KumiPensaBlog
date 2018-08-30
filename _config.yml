@@ -20,7 +20,7 @@ sass:
   style:        compressed
 
 # Gems
-remote_theme: chesterhow/tale
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
