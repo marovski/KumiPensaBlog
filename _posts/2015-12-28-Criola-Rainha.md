@@ -5,7 +5,7 @@ author: "Marovski"
 ---
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
 _Cantora Caboverdiana, Kady_
-{% endhighlight %}
+
 
 Criola, filha do mundo 
 e fruto do amor coibido
