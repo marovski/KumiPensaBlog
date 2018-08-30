@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
+title:          Marovski
 description:    "Minimal Jekyll theme for storytellers"
 
 url:            "https://chesterhow.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Mario Cardozo
+  url:          https://marovski.github.io
+  email:        cardozo27cv@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -19,11 +19,10 @@ sass:
   style:        compressed
 
 # Gems
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
-
+  - jemoji 
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
