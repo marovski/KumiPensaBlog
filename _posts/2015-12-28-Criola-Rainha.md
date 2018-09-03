@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Criola Rainha"
+title:  "Criola Queen"
 author: "Marovski"
 ---
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
