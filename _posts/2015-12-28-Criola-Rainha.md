@@ -3,9 +3,6 @@ layout: post
 title:  "Criola Queen"
 author: "Marovski"
 ---
-![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
-_Cantora Caboverdiana, Kady_
-
 
 Criola, daughter of the world and fruit of the cursed love Queen of the party and muse of the orchestra
 
@@ -20,3 +17,7 @@ Criola, your life is hard and your struggle is ripe, in your lap my soul heals, 
 Ai Criolinha! That my eyes do not tire, of appreciating and loving ... Ai Criolinha! That my taste so much demands, this flavor the grouper stew, with a pinch of Mbongo!
 
 Dance my criola, the moon is yours .. Dance with this beauty, that the sun wants you naked!
+
+
+![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
+_Cantora Caboverdiana, Kady_
