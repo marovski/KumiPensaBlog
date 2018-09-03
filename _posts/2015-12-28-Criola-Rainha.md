@@ -3,32 +3,20 @@ layout: post
 title:  "Criola Rainha"
 author: "Marovski"
 ---
-![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
+![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
 _Cantora Caboverdiana, Kady_
 
 
-Criola, filha do mundo 
-e fruto do amor coibido
-Rainha da festa e musa da orquestra
+Criola, daughter of the world and fruit of the cursed love Queen of the party and muse of the orchestra
 
-Dama que ama, mesmo quando quem a quer, não presta
-Mulher de cochas ágeis 
-e de corpo violão 
-Mulher de sangue quente 
-e de coração ardente
+Lady who loves, even when she who wants it, does not lend Woman with agile burns and body guitar Woman with warm blood and burning heart
 
-Moça menina que brilha, mesmo quando a vida, não traz maravilhas! 
-Moça menina que seus males espanta, mesmo quando na sua presença, o diabo canta! 
+Lady girl who shines, even when life does not bring wonders! Lady girl that their evils awe, even when in their presence, the devil sings!
 
-Dança minha Criola, que a lua é tua.. 
-Dança com essa beleza, que o sol te quer nua! 
+Dance my criola, the moon is yours .. Dance with this beauty, that the sun wants you naked!
 
-Criola, tua vida é dura e tua luta é madura, 
-no teu regaço a minha alma cura, 
-e no teu abraço, o meu corpo encontra ternura. 
+Criola, your life is hard and your struggle is ripe, in your lap my soul heals, and in your embrace, my body finds tenderness.
 
-Ai Criolinha! Que meus olhos não se cansam, de apreciar e de amar… 
-Ai Criolinha! Que o meu paladar tanto demanda, esse sabor a caldeirada de garoupa, com uma pitada de Mbongo!
+Ai Criolinha! That my eyes do not tire, of appreciating and loving ... Ai Criolinha! That my taste so much demands, this flavor the grouper stew, with a pinch of Mbongo!
 
-Dança minha Criola, que a lua é tua.. 
-Dança com essa beleza, que o sol te quer nua!
+Dance my criola, the moon is yours .. Dance with this beauty, that the sun wants you naked!
