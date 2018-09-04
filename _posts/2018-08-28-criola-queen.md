@@ -4,19 +4,31 @@ title:  "Criola Queen"
 author: "Marovski"
 ---
 
-Criola, daughter of the world and fruit of the cursed love Queen of the party and muse of the orchestra
+<p>Criola, daughter of the world and fruit of the cursed love!</p>
+<p>Queen of the party and muse of the orchestra!</p>
 
-Lady who loves, even when she who wants it, does not lend Woman with agile burns and body guitar Woman with warm blood and burning heart
+<p>Lady who loves, even when who wants her, does not lend</p>
+<p>Woman with agile burns and guitar body</p>
+<p>Woman with warm blood and burning heart</p>
 
-Lady girl who shines, even when life does not bring wonders! Lady girl that their evils awe, even when in their presence, the devil sings!
+<p>Lady girl who shines, even when life does not bring wonders!</p>
+<p>Lady girl that their evils awe, even when in their presence, the devil owls!</p>
 
-Dance my criola, the moon is yours .. Dance with this beauty, that the sun wants you naked!
+<p>Dance my criola, the moon is yours .. </p>
+<p>Dance with this beauty, that the sun wants you exposed!</p>
 
-Criola, your life is hard and your struggle is ripe, in your lap my soul heals, and in your embrace, my body finds tenderness.
+<p>Criola, your life is hard and your struggle is ripe, 
+  <p>in your lap my soul heals, </p>
+    <p>and in your embrace, my body finds tenderness.</p>
 
-Ai Criolinha! That my eyes do not tire, of appreciating and loving ... Ai Criolinha! That my taste so much demands, this flavor the grouper stew, with a pinch of Mbongo!
+<p>Ai Criolinha!</p>
+<p>That my eyes do not tire, of appreciating and loving ...</p>
+<p>Ai Criolinha!</p>
+<p>That my taste so much demands, this flavor the grouper stew, with a pinch of Mbongo!</p>
 
-Dance my criola, the moon is yours .. Dance with this beauty, that the sun wants you naked!
+
+<p>Dance my criola, the moon is yours .. </p>
+<p>Dance with this beauty, that the sun wants you exposed!</p>
 
 
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
