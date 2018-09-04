@@ -6,14 +6,14 @@ author: "Marovski"
 
 <p>Criola, daughter of the world</p>
 <p> and fruit of the cursed love! </p>
-<p>Queen of the party and muse of the orchestra!</p>
-<p>Lady who loves, even when who wants her, does not lend</p>
+<p>Queen of the party and muse of the orchestra</p>
+<p>Lady who loves, even when who wants her, is senseless!</p>
 </br>
 
 <p>Woman with agile burns and guitar body
-<p>Woman with warm blood and burning heart</p>
+<p>Woman with warm blood and burning heart.</p>
 </br>
-<p>Lady girl who shines, even when life does not bring wonders!</p>
+<p>Lady girl who shines, even when life does not bring wonders.</p>
 <p>Lady girl that their evils awe, even when in their presence, the devil owls!</p>
 </br>
 <p>Dance my criola, the moon is yours .. </p>
