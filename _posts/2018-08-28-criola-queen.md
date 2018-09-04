@@ -4,23 +4,24 @@ title:  "Criola Queen"
 author: "Marovski"
 ---
 
-<p>Criola, daughter of the world
- and fruit of the cursed love!
-Queen of the party and muse of the orchestra!</p>
+<p>Criola, daughter of the world</p>
+<p> and fruit of the cursed love! </p>
+<p>Queen of the party and muse of the orchestra!</p>
+<p>Lady who loves, even when who wants her, does not lend</p>
 </br>
-<p>Lady who loves, even when who wants her, does not lend
-Woman with agile burns and guitar body
-Woman with warm blood and burning heart</p>
+
+<p>Woman with agile burns and guitar body
+<p>Woman with warm blood and burning heart</p>
 </br>
-<p>Lady girl who shines, even when life does not bring wonders!
-Lady girl that their evils awe, even when in their presence, the devil owls!</p>
+<p>Lady girl who shines, even when life does not bring wonders!</p>
+<p>Lady girl that their evils awe, even when in their presence, the devil owls!</p>
 </br>
-<p>Dance my criola, the moon is yours .. 
-Dance with this beauty, that the sun wants you exposed!</p>
+<p>Dance my criola, the moon is yours .. </p>
+<p>Dance with this beauty, that the sun wants you exposed!</p>
 </br>
-<p>Criola, your life is hard and your struggle is ripe, 
-  in your lap my soul heals, 
-    and in your embrace, my body finds tenderness.</p>
+<p>Criola, your life is hard and your struggle is ripe, </p>
+ <p> in your lap my soul heals, </p>
+    <p>and in your embrace, my body finds tenderness.</p>
 </br>
 <p>Ai Criolinha!</p>
 <p>That my eyes do not tire, of appreciating and loving ...</p>
