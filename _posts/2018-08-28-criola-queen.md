@@ -32,7 +32,7 @@ author: "Marovski"
 <br>
 <p>Dance my criola, the moon is yours .. </p>
 <p>Dance with this beauty, that the sun wants you exposed!</p>
-<br>
+
 
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
 _Cantora Caboverdiana, Kady_
