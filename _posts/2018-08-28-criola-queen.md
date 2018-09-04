@@ -6,6 +6,7 @@ author: "Marovski"
 
 <p>Criola, daughter of the world</p>
 <p> and fruit of the cursed love! </p>
+</br>
 <p>Queen of the party and muse of the orchestra</p>
 <p>Lady who loves, even when who wants her, is senseless!</p>
 </br>
