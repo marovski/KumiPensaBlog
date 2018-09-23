@@ -3,6 +3,8 @@ layout: post
 title:  "Criola Queen"
 author: "Marovski"
 ---
+![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
+_Cantora Caboverdiana, Kady_
 
 <p>Criola, daughter of the world</p>
 <p> and fruit of the cursed love! </p>
@@ -34,5 +36,4 @@ author: "Marovski"
 <p>Dance with this beauty, that the sun wants you exposed!</p>
 
 
-![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
-_Cantora Caboverdiana, Kady_
+
