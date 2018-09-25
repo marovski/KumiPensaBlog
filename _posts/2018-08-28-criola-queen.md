@@ -34,7 +34,7 @@ author: "Marovski"
 <p>Dance with this beauty, that the sun wants you exposed!</p>
 
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
-_Cantora Caboverdiana, Kady_
+
 
 <br/>
 
