@@ -1,5 +1,5 @@
 # Site settings
-title:          Marovski
+title:          KumiPensa
 description:    "Minimal Jekyll theme for storytellers"
 
 
@@ -24,7 +24,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jemoji 
+  
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
