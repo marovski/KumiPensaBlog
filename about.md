@@ -7,8 +7,8 @@ permalink: /about/
 
 # Food for Thought!
 
-I see myself as a young enthusiastic, always laboring to achieve better results. In this present era of competitive requirements, not withstanding with the "daily" knowledge, it's my main guide to keep searching, learning and improving my skills. Presently, I'm a senior student of Information System Engineering and Management Master's at University of Minho - Portugal.
+Sou um jovem entusiástico, sempre trabalhando para alcançar melhores resultados. Nesta era atual de requisitos competitivos, não contentar-me com o conhecimento “diário”, é o meu lema para continuar pesquisando, aprendendo e aprimorando minhas habilidades. Actualmente, sou estudante sénior do Mestrado em Engenharia e Gestão de Sistemas de Informação na Universidade do Minho - Portugal.
 
-When I'm not in front of a computer screen, I'm probably dancing, cruising around on my bike, or planning my next challenge.
+Quando não estou à frente da tela do computador, provavelmente estou dançando, viajando de bicicleta ou planejando meu próximo desafio.
 
-## Thanks for reading!
+## Obrigado pela leitura!

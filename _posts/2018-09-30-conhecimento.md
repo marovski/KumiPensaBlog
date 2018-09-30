@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "O conhecimento salvará o mundo"
+title:  "O conhecimento salvará o mundo?"
 author: "Marovski"
 ---
 
-# O conhecimento salvará o mundo?
+# Reflexões
 
 Hoje, vivemos num mundo em constante transformações, onde deparamos com questões existencias e com respostas vagas sem ética e nem moral, o que faz muitos desacreditar num mundo melhor. Estamos mergulhados num oceano de informação, de dados, de factos e de certezas incertas, onde levamos as nossas agendas particulares à máxima força, para propagar certezas subjectivas. Teorias! Preposições!
 

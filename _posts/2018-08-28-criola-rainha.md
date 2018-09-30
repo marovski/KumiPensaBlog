@@ -5,11 +5,11 @@ author: "Marovski"
 lang: pt
 lang-ref: criola-rainha
 ---
+
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
 _Cantora Caboverdiana, Kady_
 
 # Poema
-
 
 <p>Criola, filha do mundo </p>
 <p> e fruto do amor coibido!</p>
@@ -39,8 +39,7 @@ _Cantora Caboverdiana, Kady_
 <br>
 
 <p>Ai Criolinha! </p>
-<p>Que meus olhos não se cansam, de apreciar e de amar... </p>
-<br>
+<p>Que meus olhos não se cansam, de apreciar e de amar...</p>
 <p>Ai Criolinha!</p>
 <p> Que o meu paladar tanto demanda, esse sabor a caldeirada de garoupa, com uma pitada de Mbongo!</p>
 <br>
@@ -72,8 +71,7 @@ _Cantora Caboverdiana, Kady_
     <p>and in your embrace, my body finds tenderness.</p>
 <br>
 <p>Ai Criolinha!</p>
-<p>That my eyes do not tire, of appreciating and loving ...</p>
-<br>
+<p>That my eyes do not tire, of appreciating and loving...</p>
 <p>Ai Criolinha!</p>
 <p>That my taste so much demands, this flavor the grouper stew, with a pinch of Mbongo!</p>
 

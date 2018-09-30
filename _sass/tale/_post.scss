@@ -38,7 +38,9 @@
 
   img {
     margin: 0 auto 0.5rem;
+   
   }
+  img[alt=Kady] { height: 350px; align-content: center;}
 
   img + em {
     color: $default-tint;
