@@ -8,7 +8,7 @@ description:    "Knowlodge is a search for the true"
 author:
   name:         Mário Cardoso
   url:          https://marovski.github.io
-  email:        **
+  
 
 # Build settings
 markdown:       kramdown
