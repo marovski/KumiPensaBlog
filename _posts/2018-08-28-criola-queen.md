@@ -14,7 +14,7 @@ _Cantora Caboverdiana, Kady_
 <p>Criola, filha do mundo </p>
 <p> e fruto do amor coibido!</p>
 <br/>
-<p>Rainha da festa e musa da orquestra</p>
+<p>Rainha da festa e musa da orquestra...</p>
 <p>Dama que ama, mesmo quando quem a quer, não presta!</p>
 <br>
 <p>Mulher de cochas ágeis </p>
@@ -29,7 +29,7 @@ _Cantora Caboverdiana, Kady_
 <p>Moça menina que seus males espanta, mesmo quando na sua presença, o diabo canta! </p>
 <br>
 
-<p>Dança minha Criola, que a lua é tua.. </p>
+<p>Dança minha Criola, que a lua é tua... </p>
 <p>Dança com essa beleza, que o sol te quer nua! </p>
 <br>
 
@@ -39,16 +39,17 @@ _Cantora Caboverdiana, Kady_
 <br>
 
 <p>Ai Criolinha! </p>
-<p>Que meus olhos não se cansam, de apreciar e de amar… </p>
+<p>Que meus olhos não se cansam, de apreciar e de amar... </p>
+<br>
 <p>Ai Criolinha!</p>
 <p> Que o meu paladar tanto demanda, esse sabor a caldeirada de garoupa, com uma pitada de Mbongo!</p>
 <br>
 
-<p>Dança minha Criola, que a lua é tua.. </p>
+<p>Dança minha Criola, que a lua é tua...</p>
 <p>Dança com essa beleza, que o sol te quer nua!</p>
 <br>
 
-#English Version
+# English Version
 
 <p>Criola, daughter of the world</p>
 <p> and fruit of the cursed love! </p>
@@ -72,6 +73,7 @@ _Cantora Caboverdiana, Kady_
 <br>
 <p>Ai Criolinha!</p>
 <p>That my eyes do not tire, of appreciating and loving ...</p>
+<br>
 <p>Ai Criolinha!</p>
 <p>That my taste so much demands, this flavor the grouper stew, with a pinch of Mbongo!</p>
 
