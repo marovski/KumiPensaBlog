@@ -8,7 +8,7 @@ author: "Marovski"
 
 Hoje, vivemos num mundo em constante transformações, onde deparamos com questões existencias e com respostas vagas sem ética e nem moral, o que faz muitos desacreditar num mundo melhor. Estamos mergulhados num oceano de informação, de dados, de factos e de certezas incertas, onde levamos as nossas agendas particulares à máxima força, para propagar certezas subjectivas. Teorias! Preposições!
 
-Queremos conhecer o conhecimento, o queremos absorver e sentir, no entanto, estaremos nós a valoriza-lo para realizar um **mundo melhor**?
+Queremos conhecer o conhecimento, o queremos absorver e sentir, no entanto, estaremos nós a valorizá-lo para realizar um **mundo melhor**?
 
 O mundo nunca teve tantos milionários, como os dias de hoje e aliado com o  _boom_ tecnológico, o planeta se reformula dia após dia. Magnífico! E os problemas? Hoje são outros e amanhã serão os mesmos?
 
