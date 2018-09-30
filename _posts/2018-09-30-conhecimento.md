@@ -10,7 +10,7 @@ Hoje, vivemos num mundo em constante transformações, onde deparamos com quest�
 
 Queremos conhecer o conhecimento, o queremos absorver e sentir, no entanto, estaremos nós a valorizá-lo para realizar um **mundo melhor**?
 
-O mundo nunca teve tantos milionários, como os dias de hoje e aliado com o  _boom_ tecnológico, o planeta se reformula dia após dia. Magnífico! E os problemas? Hoje são outros e amanhã serão os mesmos?
+O mundo nunca teve tantos milionários, como os dias de hoje e aliado com o  _boom_ tecnológico, o planeta se reformula dia após dia. Magnífico! E os problemas? Hoje, são outros e amanhã? Serão os mesmos?
 
 Vejámos! A fome, a pobreza e o acesso a cuidados básicos de saúde, são problemas que perduram por séculos, e as soluções não são imediatas, ainda. Falta de interesse ou falta de conhecimento?
 
