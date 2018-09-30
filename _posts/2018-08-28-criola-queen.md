@@ -1,8 +1,53 @@
 ---
 layout: post
-title:  "Criola Queen"
+title:  "Criola Rainha"
 author: "Marovski"
+lang: pt
+lang-ref: criola-rainha
 ---
+![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
+_Cantora Caboverdiana, Kady_
+
+
+
+<p>Criola, filha do mundo </p>
+<p> e fruto do amor coibido!</p>
+<br/>
+<p>Rainha da festa e musa da orquestra</p>
+<p>Dama que ama, mesmo quando quem a quer, não presta!</p>
+<br>
+<p>Mulher de cochas ágeis </p>
+<p>e de corpo violão!</p>
+<br>
+
+<p>Mulher de sangue quente </p>
+<p>e de coração ardente!</p>
+<br>
+
+<p>Moça menina que brilha, mesmo quando a vida, não traz maravilhas.</p>
+<p>Moça menina que seus males espanta, mesmo quando na sua presença, o diabo canta! </p>
+<br>
+
+<p>Dança minha Criola, que a lua é tua.. </p>
+<p>Dança com essa beleza, que o sol te quer nua! </p>
+<br>
+
+<p>Criola, tua vida é dura e tua luta é madura,</p> 
+<p>no teu regaço a minha alma cura, </p>
+<p>e no teu abraço, o meu corpo encontra ternura. </p>
+<br>
+
+<p>Ai Criolinha! </p>
+<p>Que meus olhos não se cansam, de apreciar e de amar… </p>
+<p>Ai Criolinha!</p>
+<p> Que o meu paladar tanto demanda, esse sabor a caldeirada de garoupa, com uma pitada de Mbongo!</p>
+<br>
+
+<p>Dança minha Criola, que a lua é tua.. </p>
+<p>Dança com essa beleza, que o sol te quer nua!</p>
+<br>
+
+#English Version
 
 <p>Criola, daughter of the world</p>
 <p> and fruit of the cursed love! </p>
@@ -33,8 +78,5 @@ author: "Marovski"
 <p>Dance my criola, the moon is yours .. </p>
 <p>Dance with this beauty, that the sun wants you exposed!</p>
 
-![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg )
 
-
-<br/>
 
