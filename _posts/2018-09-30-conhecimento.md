@@ -16,4 +16,4 @@ Vejámos! A fome, a pobreza e o acesso a cuidados básicos de saúde, são probl
 
 A essência da vida animal, apresenta-se na natureza, como uma busca incessante pela solução de problemas e a vida humana não fugirá à regra. Pelo que, ser se há possível resolver todos os problemas acima mencionados? É a questão que tentamos responder no presente e no futuro, provavelmente. O conhecimento produzido deve e tem o direito de buscar a verdade, não a certeza. Pois, enquanto a verdade for incerta, o conhecimento buscará, nada menos que a concordância de si mesmo, com o seu objeto (problemas). 
 
-Os problemas que o nosso planeta enfrenta, são verdades e não podemos fechar os olhos perante. E o maior problema, é dúvida que paira sobre a falta de aplicação do conhecimento, para resolver estes problemas mundanos e duradouros no planeta.
+Os problemas que o nosso planeta enfrenta, são verdades e não podemos fechar os olhos perante. E a dúvida que paira, sobre a falta de aplicação do conhecimento, na resolução destes problemas mundanos e duradouros no planeta, revelá-se um caminho bastante perigoso.
