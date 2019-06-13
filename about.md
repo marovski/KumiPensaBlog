@@ -7,8 +7,8 @@ permalink: /about/
 
 # Food for Thought!
 
-Sou um jovem entusiástico, sempre trabalhando para alcançar melhores resultados. Nesta era atual de requisitos competitivos, não contentar-me com o conhecimento “diário”, é o meu lema para continuar pesquisando, aprendendo e aprimorando minhas habilidades. Actualmente, sou estudante sénior do Mestrado em Engenharia e Gestão de Sistemas de Informação na Universidade do Minho - Portugal.
+Sou um jovem entusiásta, sempre trabalhando para alcançar melhores resultados. Nesta era atual, de requisitos competitivos, não contentar-me com o conhecimento “diário”, é o meu lema, para continuar pesquisando, aprendendo e aprimorando as minhas habilidades. 
 
-Quando não estou à frente da tela do computador, provavelmente estou dançando, viajando de bicicleta ou planejando meu próximo desafio.
+Quando não estou à frente da tela do computador, provavelmente estou dançando, andando de bicicleta ou planejando meu próximo desafio.
 
 ## Obrigado pela leitura!
