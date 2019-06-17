@@ -7,7 +7,7 @@ lang-ref: amor-injuriadu
 ---
 
 #Amor Injuriadu
-
+<br>
 <p>Nosso passaporte não nos serve, 
 </p><p>Nossa língua não nos é ensinada, </p>
 <p>Nossa música tradicional não é valorizada,</p>
@@ -27,7 +27,7 @@ lang-ref: amor-injuriadu
 <p>Nossos amigos não nos convidam p'ra "karakas tudo pago"...</p>
 <br>
 
-<p>Enfim</p>
+<p>Enfim,</p>
 <p>Da Graça da Nossa Senhora, só ficamos com o nome!</p>
 <br>
 <p>Labanta Brasu grita "forti vida injuriadu",</p>
