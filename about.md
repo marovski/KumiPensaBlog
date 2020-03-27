@@ -6,9 +6,8 @@ permalink: /about/
 ---
 
 # Food for Thought!
+Blog destinado a contar um pouco de histórias by marovski,um jovem entusiásta, sempre trabalhando para alcançar resultados. Nesta era atual, onde não contentar-se com o conhecimento “diário”, faz toda a diferença. 
 
-Sou um jovem entusiásta, sempre trabalhando para alcançar melhores resultados. Nesta era atual, de requisitos competitivos, não contentar-me com o conhecimento “diário”, é o meu lema, para continuar pesquisando, aprendendo e aprimorando as minhas habilidades. 
-
-Quando não estou à frente da tela do computador, provavelmente estou dançando, andando de bicicleta ou planejando meu próximo desafio.
+Quando não estou à frente da tela do computador, provavelmente estou dançando, andando de bicicleta ou planeando o meu próximo desafio.
 
 ## Obrigado pela leitura!
