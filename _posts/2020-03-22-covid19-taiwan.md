@@ -9,7 +9,7 @@ image: https://i.ibb.co/WKV2Kfw/90531749-2892995477415370-5299092385941159936-n.
 ---
 
 ![taiwan](https://i.ibb.co/WKV2Kfw/90531749-2892995477415370-5299092385941159936-n.jpg)
-_taiwan(edit by marovski)_
+
 
 
 Taiwan, um exemplo de como a prevenção e a rápida resposta fazem toda a diferença nesta guerra contra o COVID-19.
