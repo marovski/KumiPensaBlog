@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Poema|Criola Rainha"
+title:  "Criola Rainha"
 author: "Marovski"
 lang: pt
 lang-ref: criola-rainha
 image: https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg
 
 ---
+
 
 <p>Criola, filha do mundo </p>
 <p> e fruto do amor coibido!</p>
