@@ -10,8 +10,6 @@ image: https://i.ibb.co/WKV2Kfw/90531749-2892995477415370-5299092385941159936-n.
 
 ![taiwan](https://i.ibb.co/WKV2Kfw/90531749-2892995477415370-5299092385941159936-n.jpg)
 
-
-
 Taiwan, um exemplo de como a prevenção e a rápida resposta fazem toda a diferença nesta guerra contra o COVID-19.
 
 "Taiwan fica a 81 milhas do litoral da China continental e era esperado que tivesse o segundo maior número de casos de doença por coronavírus 2019 (COVID-19) devido à sua proximidade e número de voos entre a China. O país tem 23 milhões de cidadãos, sendo que 850 mil residem e 404 mil trabalham na China. Em 2019, 2,71 milhões de visitantes do continente viajaram para Taiwan. Como tal, Taiwan está em alerta constante e pronto para agir contra as epidemias decorrentes da China desde o epidemia de síndrome respiratória aguda grave (SARS) em 2003."[1]
