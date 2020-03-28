@@ -8,16 +8,10 @@
 
   gtag('config', 'UA-117946471-4');
 </script>
-<!--
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:title" content="Blog | Marovski" />
-    <meta property="og:type" content="blog" />
-     <meta property="og:image" content="{{site.image}}" />
-  {% if page.title == "Home" %}
-    <meta name="description" content="{{ site.description }}">
-  {% endif %} 
--->
+
+{% if page.title == "Home" %}
+<meta property="og:image" content="{{site.image}}" />
+{% endif %} 
 
   <title>
     {% if page.title == "Home" %}
@@ -27,9 +21,7 @@
     {% endif %}
   </title>
   
-    {% if page.title == "Home" %}
-  <meta property="og:image" content="{{site.image}}" />
-  {% endif %} 
+ 
 
 {% seo title=false %}
 
