@@ -4,6 +4,8 @@ title:  "El Destino"
 author: "Marovski"
 lang: es
 lang-ref: el-destino
+image: https://i.pinimg.com/originals/a6/9f/8b/a69f8b43fcdb635338be3ec343054318.png
+
 ---
 
 ![Destiny](https://i.pinimg.com/originals/a6/9f/8b/a69f8b43fcdb635338be3ec343054318.png)
