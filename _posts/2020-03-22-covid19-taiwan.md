@@ -20,22 +20,23 @@ Taiwan, um exemplo de como a prevenção e a rápida resposta fazem toda a difer
 
 Algumas dessas abordagens passaram por:
 
-1) Cruzar os dados do sistema nacional de saúde com os dados de imigração e alfândega, alavancando a criação de Big Data para análise e rastreio dos possíveis casos [1],[2].
+1. Cruzar os dados do sistema nacional de saúde com os dados de imigração e alfândega, alavancando a criação de **Big Data** para análise e rastreio dos possíveis casos [1],[2].
 
-2) Leitura de QR Code para preenchimento de formulários de fronteira, antes ou à chegada [1],[2]. Relatórios on-line do histórico de viagens dos últimos 14 dias e sintomas de saúde para classificar os riscos infecciosos dos passageiros. As pessoas com baixo risco (sem viajar para as áreas de alerta de nível 3) receberam um atestado de saúde via SMS (short message service), facilitando o controlo de fronteiras; aqueles com maior risco (viagens recentes para áreas de alerta de nível 3) foram colocados em quarentena em casa e rastreados pelo telemóvel, de modo a garantir que cumpriam a quarentena durante o período de incubação [1].
+2. Leitura de **QR Code** para preenchimento de formulários de fronteira, antes ou à chegada [1],[2]. Relatórios on-line do histórico de viagens dos últimos 14 dias e sintomas de saúde para classificar os riscos infecciosos dos passageiros. As pessoas com baixo risco (sem viajar para as áreas de alerta de nível 3) receberam um atestado de saúde via SMS (short message service), facilitando o controlo de fronteiras; aqueles com maior risco (viagens recentes para áreas de alerta de nível 3) foram colocados em quarentena em casa e rastreados pelo telemóvel, de modo a garantir que cumpriam a quarentena durante o período de incubação [1].
 
-4) À medida que a linha de emergência nacional disponibilizada entrava em sobrecarga, devido ao excessivo número de chamadas, foram criadas outras linhas ao nível das principais cidades da ilha [1].
+4. À medida que a linha de emergência nacional disponibilizada entrava em sobrecarga, devido ao excessivo número de chamadas, foram criadas outras linhas ao nível das principais cidades da ilha [1].
 
-5) Alocação de recursos, incluindo a fixação do preço das máscaras e a mobilização de fundos do governo e pessoal militar para aumentar a produção de máscaras. Em 20 de janeiro, o CDC (Control Disease Center) de Taiwan anunciou que o governo tinha um stock de 44 milhões de máscaras cirúrgicas, 1,9 milhão de máscaras N95 e 1100 salas de isolamento com pressão negativa do ar [1].
+
+5. Alocação de recursos, incluindo a fixação do preço das máscaras e a mobilização de fundos do governo e pessoal militar para aumentar a produção de máscaras. Em 20 de janeiro, o CDC (Control Disease Center) de Taiwan anunciou que o governo tinha um stock de 44 milhões de máscaras cirúrgicas, 1,9 milhão de máscaras N95 e 1100 salas de isolamento com pressão negativa do ar [1].
 
 ---
-Links úteis:
+####Links úteis:
 
 Cronograma de ações: https://bit.ly/33K3qgY
 
 ---
 
-Artigos:
+####Artigos:
 
 [1]https://jamanetwork.com/journals/jama/fullarticle/2762689
 
