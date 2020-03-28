@@ -3,8 +3,6 @@ layout: post
 title:  "Criola Rainha"
 author: "Marovski"
 lang: pt
-image:
-  path: https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg
 lang-ref: criola-rainha
 ---
 
