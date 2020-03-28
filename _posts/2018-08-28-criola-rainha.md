@@ -4,6 +4,8 @@ title:  "Criola Rainha"
 author: "Marovski"
 lang: pt
 lang-ref: criola-rainha
+image: https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg
+
 ---
 
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
