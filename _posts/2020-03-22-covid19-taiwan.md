@@ -30,13 +30,13 @@ Algumas dessas abordagens passaram por:
 5. Alocação de recursos, incluindo a fixação do preço das máscaras e a mobilização de fundos do governo e pessoal militar para aumentar a produção de máscaras. Em 20 de janeiro, o CDC (Control Disease Center) de Taiwan anunciou que o governo tinha um stock de 44 milhões de máscaras cirúrgicas, 1,9 milhão de máscaras N95 e 1100 salas de isolamento com pressão negativa do ar [1].
 
 ---
-####Links úteis:
+#### Links úteis:
 
 Cronograma de ações: https://bit.ly/33K3qgY
 
 ---
 
-####Artigos:
+#### Artigos:
 
 [1]https://jamanetwork.com/journals/jama/fullarticle/2762689
 
