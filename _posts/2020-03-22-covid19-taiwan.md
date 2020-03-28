@@ -14,7 +14,7 @@ Taiwan, um exemplo de como a prevenção e a rápida resposta fazem toda a difer
 
 "Taiwan fica a 81 milhas do litoral da China continental e era esperado que tivesse o segundo maior número de casos de doença por coronavírus 2019 (COVID-19) devido à sua proximidade e número de voos entre a China. O país tem 23 milhões de cidadãos, sendo que 850 mil residem e 404 mil trabalham na China. Em 2019, 2,71 milhões de visitantes do continente viajaram para Taiwan. Como tal, Taiwan está em alerta constante e pronto para agir contra as epidemias decorrentes da China desde o epidemia de síndrome respiratória aguda grave (SARS) em 2003."[1]
 
-![taiwan](https://i.ibb.co/WKV2Kfw/90531749-2892995477415370-5299092385941159936-n.jpg
+![taiwan](https://i.ibb.co/WKV2Kfw/90531749-2892995477415370-5299092385941159936-n.jpg)
 _taiwan(edit by marovski)_
 
 "O surto do COVID-19 ocorreu pouco antes do Ano Novo Lunar, período em que se esperava que milhões de chineses e taiwaneses viajassem nos feriados. Taiwan rapidamente mobilizou e instituiu abordagens específicas para identificação de casos, contenção e alocação de recursos para proteger a saúde pública."[1]
