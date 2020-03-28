@@ -8,6 +8,7 @@ image: https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg
 
 ---
 
+<div style="text-align: center;">
 
 <p>Criola, filha do mundo </p>
 <p> e fruto do amor coibido!</p>
@@ -45,11 +46,11 @@ image: https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg
 <p>Dança minha Criola, que a lua é tua...</p>
 <p>Dança com essa beleza, que o sol te quer nua!</p>
 <br>
-
+</div>
 ![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
 _Cantora Caboverdiana, Kady_
 
-
+<div style="text-align: center;">
 # English Version
 
 <p>Criola, daughter of the world</p>
@@ -82,4 +83,4 @@ _Cantora Caboverdiana, Kady_
 <p>Dance with this beauty, that the sun wants you exposed!</p>
 
 
-
+</div>
