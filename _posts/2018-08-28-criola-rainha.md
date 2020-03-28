@@ -8,9 +8,6 @@ image: https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg
 
 ---
 
-![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
-_Cantora Caboverdiana, Kady_
-
 # Poema
 
 <p>Criola, filha do mundo </p>
@@ -49,6 +46,10 @@ _Cantora Caboverdiana, Kady_
 <p>Dança minha Criola, que a lua é tua...</p>
 <p>Dança com essa beleza, que o sol te quer nua!</p>
 <br>
+
+![Kady](https://dtudo1pouco.com/wp-content/uploads/Kady-696x696.jpg)
+_Cantora Caboverdiana, Kady_
+
 
 # English Version
 
