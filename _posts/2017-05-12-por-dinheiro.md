@@ -4,6 +4,8 @@ title:  "Por Dinheiro"
 author: "Marovski"
 lang: pt
 lang-ref: money
+image: https://truththeory.com/wp-content/uploads/2018/11/dolla.jpg
+
 ---
 
 ![MoneySlaves](https://truththeory.com/wp-content/uploads/2018/11/dolla.jpg)
