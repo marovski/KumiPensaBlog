@@ -9,12 +9,12 @@
   gtag('config', 'UA-117946471-4');
 </script>
 
-{% if page.title == "Home" %}
+{% if page.title == "Blog Index" %}
 <meta property="og:image" content="{{site.image}}" />
 {% endif %} 
 
   <title>
-    {% if page.title == "Home" %}
+    {% if page.title == "Blog Index" %}
       {{ site.title }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
