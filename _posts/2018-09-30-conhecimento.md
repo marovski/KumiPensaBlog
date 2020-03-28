@@ -2,6 +2,8 @@
 layout: post
 title:  "O conhecimento salvará o mundo?"
 author: "Marovski"
+image: https://talonsphilosophy.files.wordpress.com/2013/11/knowledge.jpg
+
 ---
 
 # Reflexões
