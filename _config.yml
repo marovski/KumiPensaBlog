@@ -3,7 +3,13 @@ title:          KumiPensa
 description:    "Knowlodge is a search for the true"
 image: https://marovski.github.io/css/img/portraitMarovski.png
 url: https://marovski.github.io/KumiPensaBlog/
+logo: https://marovski.github.io/KumiPensaBlog/assets/favicon-32x32.png
 
+#twitter
+twitter:
+  username: mcardozo_10
+  card: summary
+  
 
 
 
