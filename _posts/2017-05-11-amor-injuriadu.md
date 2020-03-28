@@ -4,6 +4,8 @@ title:  "Amor Injuriadu"
 author: "Marovski"
 lang: pt
 lang-ref: amor-injuriadu
+image: https://static.boredpanda.com/blog/wp-content/uploads/2017/06/11885273_935875969840699_967361434921832664_n-5942578c952ee__880.jpg
+
 ---
  
 ![society](https://static.boredpanda.com/blog/wp-content/uploads/2017/06/11885273_935875969840699_967361434921832664_n-5942578c952ee__880.jpg "Amor Injuriadu")
