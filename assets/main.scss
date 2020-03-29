@@ -4,12 +4,9 @@
 
 @import 'tale';
 
-$breakpoints: (phone: 640px, 
-               tablet: 768px, 
-               desktop: 1024px) !default;
                
 
-@include media(">phone", "<tablet") {
+@media(max-width:600px) {
     html{
         font-size: 33px;
     }
