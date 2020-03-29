@@ -4,6 +4,16 @@
 
 @import 'tale';
 
+$breakpoints: (phone: 640px, 
+               tablet: 768px, 
+               desktop: 1024px) !default;
+
+@include media(">phone", "<tablet") {
+    html{
+        font-size: 33px;
+    }
+
+}
 
 
 .poem{
@@ -11,10 +21,7 @@
     p{
         text-align: center;
     }
-    @media (min-width: 600px)
- {
-    font-size: 33px;
-}
+
    
 }
 #english-version{
