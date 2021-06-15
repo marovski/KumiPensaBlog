@@ -14,7 +14,7 @@ In this article, I will show you how to easily increase the maximum file upload 
 
 WordPress will automatically show the maximum file upload size limit when you are uploading images or media, so if you want to know what your site’s upload limit is, you can visit **_Media -> Add New_** as shown in the image bellow.
 
-![max upload size](/assets/max-upload-size.jpg)
+![max upload size](./assets/max-upload-size.jpg)
 
 
 Bellow the upload box it will be prompt the following message “Maximum upload file size” with a number next to it, in megabytes. This is the maximum your uploaded files can be. By default, this number ranges anywhere from 2MB to 128MB and dictates how big an uploaded file can be. If you find yourself on the smaller end of that scale, you may want to increase your upload limit to accommodate larger media files.
