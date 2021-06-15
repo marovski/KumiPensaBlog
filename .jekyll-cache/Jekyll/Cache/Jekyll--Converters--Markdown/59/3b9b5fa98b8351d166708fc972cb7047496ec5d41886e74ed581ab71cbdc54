@@ -1,0 +1,63 @@
+I"�<p>In this article, I will show you how to easily increase the maximum file upload size in WordPress to be able to upload large media files to your WP Blog/Website.</p>
+
+<h2 id="before-we-start">Before We Start</h2>
+
+<p>WordPress will automatically show the maximum file upload size limit when you are uploading images or media, so if you want to know what your site’s upload limit is, you can visit <strong><em>Media -&gt; Add New</em></strong> as shown in the image bellow.</p>
+
+<p><img src="./assets/max-upload-size.jpg" alt="max upload size" /></p>
+
+<p>Below the upload box it will be prompt the following message “Maximum upload file size” with a number next to it, in megabytes. This is the maximum your uploaded files can be. By default, this number ranges anywhere from 2MB to 128MB and dictates how big an uploaded file can be. If you find yourself on the smaller end of that scale, you may want to increase your upload limit to accommodate larger media files.</p>
+
+<h2 id="finding-your-settings">Finding Your Settings</h2>
+
+<p>Before we being trying the method to solve this issue there are particular specs we must be aware of. This specs are related with how your site PHP is configured. Fortunately, PHP provides us with the function <em>phpinfo()</em> that we can use to get information about it’s configuration.</p>
+
+<p>To do this first search in your web server root directory for any file named <strong><em>info.php</em></strong> , it’s most probably that you won’t find it so you will need to create the file with the following PHP code:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span> <span class="nb">phpinfo</span><span class="p">()</span>  <span class="cp">?&gt;</span>
+</code></pre></div></div>
+<p>With the file created upload it to your web server and go to “<em>yourwebsite.com/info.php</em>”. This will present you with a list of details about your PHP configuration like the following image example.</p>
+
+<p><img src="https://docs.bitnami.com/images/img/components/php/check-phpinfo.png" alt="phpinfo" /></p>
+
+<p>In the list of details you will find three settings within that are relevant to your upload limit:</p>
+
+<ul>
+  <li>
+    <p><strong>memory_limit</strong> – This defines how much memory is allocated to PHP. You will simply need to ensure that this number is as high or higher than the upload limit you want to set.</p>
+  </li>
+  <li>
+    <p><strong>post_max_size</strong> – This defines the maximum size that is handled in a POST request. We will need to set this to our new upload limit.</p>
+  </li>
+  <li>
+    <p><strong>upload_max_filesize</strong> – This defines the maximum size for file uploads. This will also be set to our new upload limit.</p>
+  </li>
+</ul>
+
+<p>By searching through the file you’ll be able to see how these settings of PHP configuration. Now that we have identified the settings that we want to alter, there are several methods to change them but in this article I will be presenting one that will produce less bugs and is straight to the point.</p>
+
+<h2 id="how-to-solve-the-quick-way">How To Solve (The Quick Way)</h2>
+
+<p><em>Ps:Before you start making changes to your server’s configuration, you should make a backup of your site and database. If you find your php.ini file(<a href="https://www.techopedia.com/definition/24302/ini-file">resources about</a>), you will also want to back this file up locally.</em></p>
+
+<p>This method works by changing or creating the <em>php.ini</em> of your server. This file is usually located in the root directory of your website. So, first you will need to check if there’s any <em>php.ini</em> file in the root directory or in the folder <em>wp-admin</em>.</p>
+
+<p>Let’s suppose there isn’t, so we will need to create the it. To do this, open any text editor locally and insert the following settings:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>memory_limit = 64M
+
+upload_max_filesize = 64M
+
+post_max_size = 64M
+
+max_execution_time = 300
+
+</code></pre></div></div>
+<p>It is important that we use an “M” to define our filesize limit in megabytes, instead of the commonly used MB. You may also want to insert the <strong>max_execution_time</strong> variable and set it to something like <strong>300</strong>. This will ensure that your website does not time out when uploading larger files.</p>
+
+<p>Succeeding inserting the settings, save the file as <em>php.ini</em> and upload it to your server to the <em>/wp-admin/</em> directory on your server. Now, the upload limit will be increased.</p>
+
+<p>This method is reported to work in many users and it’s quickest way I’ve found to solve this issues myself.</p>
+
+<p>If you liked this article, then please subscribe for more.</p>
+:ET
