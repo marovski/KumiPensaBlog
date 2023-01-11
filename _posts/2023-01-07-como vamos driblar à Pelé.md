@@ -16,7 +16,7 @@ Segundo, as estatísticas de 2022 apresentadas pelo MFFE, mais de 65% dos víncu
 
 No entanto, em relação à juventude, o cenário deve ser ainda mais crítico. E, acoplada à situação do desemprego e à falta de acesso à habitação, temos uma bola de neve a caminho, sem falar na inflação galopante (que atingiu um novo recorde histórico em julho de 2022, de 9% - o segundo maior nos últimos 25 anos [1]).
 
-![inflation2020CV](https://scontent.frai2-1.fna.fbcdn.net/v/t39.30808-6/324715116_830516381344343_4156132755161404328_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE8UhwxjMM1x7BqgzINYuF7UoXb4taWQSFShdvi1pZBIXQXRUSEGXYMAfyQruUINgBU3keroQWIa691U4BYVQCb&_nc_ohc=mOkCShxikdMAX_QPEec&_nc_ht=scontent.frai2-1.fna&oh=00_AfCA3K7qH4bsogUUM_DkJfveM1ENlmgiXeoA5rxDdVUa_A&oe=63C295DF)_Inflation 2021- September 2022 in Cabo Verde_
+![inflation2020CV](https://scontent.frai2-1.fna.fbcdn.net/v/t39.30808-6/324715116_830516381344343_4156132755161404328_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE8UhwxjMM1x7BqgzINYuF7UoXb4taWQSFShdvi1pZBIXQXRUSEGXYMAfyQruUINgBU3keroQWIa691U4BYVQCb&_nc_ohc=mOkCShxikdMAX_QPEec&_nc_ht=scontent.frai2-1.fna&oh=00_AfCA3K7qH4bsogUUM_DkJfveM1ENlmgiXeoA5rxDdVUa_A&oe=63C295DF)_Inflation Jan/2021- Sept/2022 in Cabo Verde_
 
 <br>
 **A pergunta é que fica, é como vamos driblar à Pelé este cenário?!**
@@ -25,7 +25,9 @@ Emigração, aumentos salariais (vs inflação), aumento das taxas de juro (vs i
 
 O Poder Central fez e está a fazer a sua parte [2] e, a sociedade também deve fazê-lo, num clima de sinergia e de abertura, sem tabus, para encontrarmos as melhores soluções, pois o futuro é Cabo Verde.
 
-Enfim, este é apenas um desabafo de um jovem sobre o futuro da sua geração. Votos de um ótimo 1º final de semana de 2023 🙂 
+Enfim, este é apenas um desabafo de um jovem sobre o futuro da sua geração. 
+
+Votos de um ótimo 1º final de semana de 2023 🙂 
 
 ---
 #gerason90 #minis2000 #peléreidofutebol #inflationcv #employmentcv
