@@ -8,16 +8,14 @@ image: https://scontent.frai2-1.fna.fbcdn.net/v/t39.30808-6/324715116_8305163813
 
 ---
 
-
-<br>
 Enquanto se discute o novo nome para o Estádio Nacional, numa realidade onde ainda temos praças, ruas e monumentos com nomes de pro-esclavagistas, os problemas da nossa juventude passam completamente ao lado.
 
 Segundo, as estatísticas de 2022 apresentadas pelo MFFE, mais de 65% dos vínculos laborais em Cabo Verde são precários. Na Administração Pública, em 2021 lançou-se com sucesso o I Programa para resolver os vínculos precários e o OE 2023 já prevê o II programa mais alargado. 
 
 No entanto, em relação à juventude, o cenário deve ser ainda mais crítico. E, acoplada à situação do desemprego e à falta de acesso à habitação, temos uma bola de neve a caminho, sem falar na inflação galopante (que atingiu um novo recorde histórico em julho de 2022, de 9% - o segundo maior nos últimos 25 anos [1]).
 
-![Employment status in Cabo Verde](https://scontent.frai2-1.fna.fbcdn.net/v/t39.30808-6/324729371_929071668126651_4310297870372279550_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGiPp4t4w0jI0TyAWm5olPWkmUxAyeQzJSSZTEDJ5DMlDzWvseMtNh84Pe6HSpmBH2vBmaj_aQLiQIZC9rMmBbX&_nc_ohc=JbSgO7y8LnsAX_UHHly&_nc_ht=scontent.frai2-1.fna&oh=00_AfCavPJHjNe3RDUfC791EgrXsJrlsrG67aOsvlqXtkOBzQ&oe=63C46558)
-
+![employmentstatusCV](https://scontent.frai2-1.fna.fbcdn.net/v/t39.30808-6/324729371_929071668126651_4310297870372279550_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGiPp4t4w0jI0TyAWm5olPWkmUxAyeQzJSSZTEDJ5DMlDzWvseMtNh84Pe6HSpmBH2vBmaj_aQLiQIZC9rMmBbX&_nc_ohc=JbSgO7y8LnsAX_UHHly&_nc_ht=scontent.frai2-1.fna&oh=00_AfCavPJHjNe3RDUfC791EgrXsJrlsrG67aOsvlqXtkOBzQ&oe=63C46558)
+<br>
 A pergunta é que fica, é como vamos driblar à Pelé este cenário?!
 
 Emigração, aumentos salariais (vs inflação), aumento das taxas de juro (vs inflação), aumento do rendimento social de inclusão, investimento público - frentes de emprego público, "Programa de Arrendamento/Habitação Acessível" ou um "porta 65" para aquisição de habitação (a especulação imobiliária na Praia tem sido um crime), Investimento Privado Nacional e Externo (Em qual setor?)??! Gostaria de ver a minha geração discutir com igual frenesim, esta pergunta de mil respostas.
