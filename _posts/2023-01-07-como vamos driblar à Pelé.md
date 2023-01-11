@@ -14,7 +14,7 @@ Segundo, as estatísticas de 2022 apresentadas pelo MFFE, mais de 65% dos víncu
 
 No entanto, em relação à juventude, o cenário deve ser ainda mais crítico. E, acoplada à situação do desemprego e à falta de acesso à habitação, temos uma bola de neve a caminho, sem falar na inflação galopante (que atingiu um novo recorde histórico em julho de 2022, de 9% - o segundo maior nos últimos 25 anos [1]).
 
-![employmentstatusCV](https://scontent.frai2-1.fna.fbcdn.net/v/t39.30808-6/324729371_929071668126651_4310297870372279550_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGiPp4t4w0jI0TyAWm5olPWkmUxAyeQzJSSZTEDJ5DMlDzWvseMtNh84Pe6HSpmBH2vBmaj_aQLiQIZC9rMmBbX&_nc_ohc=JbSgO7y8LnsAX_UHHly&_nc_ht=scontent.frai2-1.fna&oh=00_AfCavPJHjNe3RDUfC791EgrXsJrlsrG67aOsvlqXtkOBzQ&oe=63C46558)
+![employmentstatusCV](https://scontent.frai2-1.fna.fbcdn.net/v/t39.30808-6/324729371_929071668126651_4310297870372279550_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGiPp4t4w0jI0TyAWm5olPWkmUxAyeQzJSSZTEDJ5DMlDzWvseMtNh84Pe6HSpmBH2vBmaj_aQLiQIZC9rMmBbX&_nc_ohc=JbSgO7y8LnsAX_UHHly&_nc_ht=scontent.frai2-1.fna&oh=00_AfCavPJHjNe3RDUfC791EgrXsJrlsrG67aOsvlqXtkOBzQ&oe=63C46558)_Employment Status in Cabo Verde_
 <br>
 A pergunta é que fica, é como vamos driblar à Pelé este cenário?!
 
