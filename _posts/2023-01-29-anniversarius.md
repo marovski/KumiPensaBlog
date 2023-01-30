@@ -12,8 +12,7 @@ image:
 
 ## Anniversarius
 
-![Anniversarius](../assets/SerraMalagueta.jpeg)
-_Parque Natural Serra Malagueta_
+
 
 > Pensei na frequência do pensar,
 veloz, ininterrupto e profundo, 
@@ -35,6 +34,8 @@ simplificar o complexo,
 nas sinfonias dos anniversarius dos seres,
 onde mergulho para renascer. 
 
+![Anniversarius](../assets/SerraMalagueta.jpeg)
+_Parque Natural Serra Malagueta_
 ---
 
 
