@@ -8,11 +8,11 @@ image:
 
 ---
 
-<div class="poem">
+
 
 ## Anniversarius
 
-![Anniversarius](../assets/SerraMalagueta.jpg)
+![Anniversarius](../assets/SerraMalagueta.jpeg)
 _Parque Natural Serra Malagueta_
 
 > Pensei na frequência do pensar,
@@ -34,7 +34,7 @@ depois da terra nos expelir e, no fim, nos engolir.
 simplificar o complexo, 
 nas sinfonias dos anniversarius dos seres,
 onde mergulho para renascer. 
-</div>
+
 ---
 
 
