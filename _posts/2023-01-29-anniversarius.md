@@ -9,11 +9,6 @@ image:
 ---
 
 
-
-## Anniversarius
-
-
-
 > Pensei na frequência do pensar,
 veloz, ininterrupto e profundo, 
 um comboio infindável,
@@ -33,9 +28,9 @@ depois da terra nos expelir e, no fim, nos engolir.
 simplificar o complexo, 
 nas sinfonias dos anniversarius dos seres,
 onde mergulho para renascer. 
-
+---
 ![Anniversarius](../assets/SerraMalagueta.jpeg)
 _Parque Natural Serra Malagueta_
----
+
 
 
