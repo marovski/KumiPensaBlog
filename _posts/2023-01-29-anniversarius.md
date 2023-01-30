@@ -9,7 +9,12 @@ image:
 ---
 
 <div class="poem">
+
 ## Anniversarius
+
+![Anniversarius](../assets/SerraMalagueta.jpg)
+_Parque Natural Serra Malagueta_
+
 >Pensei na frequência do pensar,
 veloz, ininterrupto e profundo, 
 um comboio infindável,
